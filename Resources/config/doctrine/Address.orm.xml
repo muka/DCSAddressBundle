@@ -26,7 +26,7 @@
 
         <field name="completeAddress" column="complete_address" type="string" nullable="true" />
 
-        <field name="point" column="point" type="Point" nullable="true" />
+        <field name="point" column="point" type="point" nullable="true" />
 
     </mapped-superclass>
 
